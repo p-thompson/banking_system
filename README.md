@@ -1,4 +1,3 @@
-# This project is separated into three parts: client_side, server and database. Both client and server sides require NPM package manager in order to be installed.
 
 # Getting Started
 Frameworks used:
